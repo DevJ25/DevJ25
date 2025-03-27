@@ -10,7 +10,7 @@
 
 - 📚 Estudiante de Ingeniería de Sistemas e Informática
 - 🏫 Universidad Tecnológica del Perú (UTP)
-- 📍 Ciclo Actual: 5to Ciclo
+- 📍 Ciclo Actual: 7to Ciclo
 
 #### 🎯 Objetivos
 
